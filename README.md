@@ -1,0 +1,1 @@
+This repository contains the code I developed for the semi-analytic, equilibrium metallicity model I used to study the impacts of varying gas accretion on galaxy metallicities for my master's research project. 
